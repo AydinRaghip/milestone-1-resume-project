@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/*-------------------------------------- Header/Navbar */
+
+.nav{
+    margin-top: 0px;
+    font-family: "Montserrat", sans-serif;
+    height: 100px;
+    width: 100%;
+    background-color: #2b63bd;
+    text-transform: uppercase;
+    color: #ebeef2;
+}
+
+.nav-title{
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 50px;
+}
+
+.nav-links{
+    position: absolute;
+    right: 0px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.nav-links a{
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    color: #ebeef2;
+}
+
+.nav-links a:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 50px;
+}
+
+/*-------------------------------------- Footer */
+
+.footer-content{
+    font-family: "Montserrat", sans-serif;
+    height: 150px;
+    width: 100%;
+    background-color: #2b63bd;
+    text-transform: uppercase;
+    color: #ebeef2;
+    position: absolute;
+    bottom: 0;
+}
+
+.about-footer{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 50%;
+    float: left;
+}
+
+.social-media-icons{
+    position: absolute;
+    right: 0px;
+    margin-top: 40px;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+}
+
+.social-media-icons a{
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+    color: #ebeef2;
+}
+
+.social-media-icons a:hover{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/*-------------------------------------- index.html content */
+
+/*image for profile picture was taken from https://www.xibis.nl/facebook-profile-picture-no-pic-avatar/ */
+/*.profile-pic{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

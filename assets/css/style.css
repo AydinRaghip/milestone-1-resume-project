@@ -116,6 +116,28 @@
 
 /*-------------------------------------- education.html content */
 
+.education{
+    float: left;
+    font-family: "Montserrat", sans-serif;
+    position: absolute;
+    width: 50%;
+    right: 0;
+    padding: 70px 10px 10px 80px;
+}
+
+.work{
+    float: left;
+    font-family: "Montserrat", sans-serif;
+    width: 50%;
+    right: 0;
+    padding: 120px 10px 10px 30px;
+}
+
+.edu-title{
+    font-weight: bold;
+}
+/*-------------------------------------- contact.html content */
+
 .contact-main{
     display: block;
     text-align: center;
@@ -139,6 +161,8 @@
 .form-control{
     margin-bottom: 10px;
 }
+
+
 
 
 
